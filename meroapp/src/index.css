@@ -1,0 +1,11 @@
+.footer-wrapper {
+    color: #f8f9fa; /* Light color for text */
+  }
+
+  .footer-wrapper a {
+    color: #f8f9fa !important; /* Light color for links */
+  }
+
+  .footer-wrapper a:hover {
+    color: #adb5bd; /* Slightly darker color for hover effect */
+  }
